@@ -62,3 +62,8 @@ Hessian-Free (Truncated Newton Method): an approximation of the Hessian is calcu
 Particle Swarm Optimization (PSO): computational method that solves a problem by having a population of candidate solutions, or particles, and moving these around in the search-space according to simple mathematical formulae over the particle's position and velocity. Each particle's movement is influenced by its local best known position, but is also guided toward the best known positions in the search-space, which are updated as better positions are found by other particles. This is expected to move the swarm toward the best solutions.
 
 Hybrid system (global + local search): Initialized swarms with AdaGrad, then update swarms with PSO methods
+
+#Done By
+S.HARIHARA SUDHAN--19BCE0742
+AMAN SINHA--19BCE0706
+PRASHANT MAIKHURI--19BCE2476
